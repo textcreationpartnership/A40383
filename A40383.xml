@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Escurial, or, A description of that vvonder of the vvorld for architecture and magnificence of structure built by K. Phillip the IId of Spain and lately consumed by fire written in Spanish by Francisco de los Santos, a frier of the order of S. Hierome ; translated into English by a servant of the Earl of Sandwich in his extraordinary embassie thither.</title>
+            <title>Descriptión del real monasterio de San Lorenzo del escorial. English</title>
+            <author>Santos, Francisco, d. ca. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40383</idno>
+            <idno type="STC">Wing F2061</idno>
+            <idno type="STC">ESTC R29437</idno>
+            <idno type="EEBO-CITATION">11132655</idno>
+            <idno type="OCLC">ocm 11132655</idno>
+            <idno type="VID">46378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Escurial, or, A description of that vvonder of the vvorld for architecture and magnificence of structure built by K. Phillip the IId of Spain and lately consumed by fire written in Spanish by Francisco de los Santos, a frier of the order of S. Hierome ; translated into English by a servant of the Earl of Sandwich in his extraordinary embassie thither.</title>
+                  <title>Descriptión del real monasterio de San Lorenzo del escorial. English</title>
+                  <author>Santos, Francisco, d. ca. 1700.</author>
+               </titleStmt>
+               <extent>[5], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Collins and J. Ford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation and abridgment of the author's Descriptión del real monasterio de San Lorenzo del Escorial.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Escorial.</term>
+               <term>Monasteries --  Spain.</term>
+               <term>Spain --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46378:1" rendition="simple:additions"/>
+            <p>THE ESCURIAL, Or, a DESCRIPTION of that VVonder of the vvorld FOR ARCHITECTURE and MAGNIFICENCE of <hi>STR<g ref="char:V">Ʋ</g>CT<g ref="char:V">Ʋ</g>RE:</hi> Built by K. <hi>PHILIP</hi> THE II<hi rend="sup">D</hi> of <hi>Spain,</hi> and lately Conſumed by Fire.</p>
+            <p>VVritten in <hi>Spaniſh</hi> by <hi>Franciſco de los Santos,</hi> a Frier of the Order of <hi>S. Hierome,</hi> and an Inhabitant there</p>
+            <p>Tranſlated into <hi>Engliſh</hi> by a Servant of the Earl of <hi>Sandwich</hi> in his Extraordinary Em<g ref="char:EOLhyphen"/>baſſie thither.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Collins</hi> and <hi>J. Ford,</hi> at the <hi>Middle-Temple</hi>-Gate in <hi>Fleet-ſtreet,</hi> 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46378:2"/>
+            <pb facs="tcp:46378:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>IT being the uſual Fate of the greateſt Works, as well as of the moſt emi<g ref="char:EOLhyphen"/>nent Perſons, to be then most deſired and talked of, when the world is deprived of them; and the generality of the most curious ſort of Mankind loving even to tread upon that Ground which hath been most famous for any ſort of renowned Anti<g ref="char:EOLhyphen"/>quity; I make no question, but though (by this Lamentable Accident of Fire, which of (late hath happened in <hi>Spain</hi>) the moſt Magnificent and Auguſt Pile of Building on the face of the Earth hath heen ruined and deſtroyed; yet that moſt that ever heard of it, by this ſad occaſion, will talk more of it than ever before; and
+<pb facs="tcp:46378:3"/>many perchance as ſhall have opportunity of travelling into thoſe Parts, will view with no leſs aſtoniſhment, the Ruines of this Royal Houſe, than they would with curioſity ſurvey the Place where old <hi>Rome</hi> or the famous ancient <hi>Carthage</hi> ſtood. Judging therefore, that most of thoſe who never had opportunity of ſeeing this ſo re<g ref="char:EOLhyphen"/>nowned Fabrick, may have ſome ſort of liking to hear a Deſcription of it: 'Tis part<g ref="char:EOLhyphen"/>ly to ſatisfie them, and partly to gratifie ſome Friends that have deſired it of me, I have translated and taken out of a good <hi>Spaniſh</hi> Author as yet alive, and well known to the right Honourable the Earl of <hi>Sandwich,</hi> in his late Embaſſie Extra<g ref="char:EOLhyphen"/>ordinary to the Preſent King <hi>Charles</hi> the Second (which his Lordſhhip executed with ſo much Honour, Induſtry and Succeſs) this brief enſuing Deſcription: the which, being not ſo ſufficiently full as to contain divers things, which are not unworthy of
+<pb facs="tcp:46378:3"/>our knowledge, I have thought good to pre<g ref="char:EOLhyphen"/>miſe ſome few Particulars in this Epiſtle; as First, Touching the Name of this <hi>Extraordinary Edifice. 2.</hi> Who it was that <hi>founded it.</hi> And <hi>3.</hi> What moved the <hi>Founder,</hi> or gave him occaſion to <hi>erect Royal Fabrick.</hi> As to the firſt; Though this <hi>Stately Houſe</hi> it ſelf be called the <hi>Eſcurial,</hi> yet the true Name of it is the <hi>Royal Monaſtery</hi> of S. <hi>Lawrence,</hi> near the <hi>Eſcorial:</hi> For the <hi>Eſcorial,</hi> or <hi>Eſcu<g ref="char:EOLhyphen"/>rial,</hi> as it is commonly called, is a little Village cloſe by it, which is ſaid to take its Name <hi>a ſcoria ferri,</hi> from <hi>iron droſs;</hi> here having been in ancient time great ſtore of <hi>Iron-works</hi> in this place. The <hi>Founder</hi> of it was <hi>Philip</hi> the Second; who for the enſuing Reaſons, first built and dedicated it unto S. <hi>Lawrence,</hi> his own great Saint, Famous for his Martyrdom upon a <hi>Grid<g ref="char:EOLhyphen"/>iron</hi> in <hi>Spain;</hi> in faſhion of which, this Houſe is made; and then gave it to the
+<pb facs="tcp:46378:4"/>
+               <hi>Jeronymites,</hi> or Friers of the Order of S. <hi>Hierome.</hi> The reaſon of the firſt, was becauſe on <hi>this Saints Day,</hi> being the tenth of <hi>Auguſt,</hi> he obtain'd at the <hi>great Battel</hi> of S. <hi>Quintins,</hi> a memorable <hi>Vi<g ref="char:EOLhyphen"/>ctory</hi> againſt the <hi>French;</hi> and <hi>there</hi> made his <hi>Vow</hi> to erect <hi>this Houſe</hi> in ho<g ref="char:EOLhyphen"/>nour of <hi>him.</hi> The chief <hi>inducement</hi> to beſtow it on the <hi>Hieronymites</hi> or <hi>Friers</hi> of the Order of S. <hi>Hierome,</hi> rather than any <hi>other,</hi> was for his Father <hi>Charles</hi> the Fifth's ſake, who had a <hi>peculiar Affecti<g ref="char:EOLhyphen"/>on</hi> to that Order, and made his Retire<g ref="char:EOLhyphen"/>ment (when he had <hi>Surrendred</hi> the Em<g ref="char:EOLhyphen"/>pire to his Brother <hi>Ferdinand,</hi> and the <hi>Crown</hi> of <hi>Spain</hi> to his <hi>Son</hi>) into a <hi>Mo<g ref="char:EOLhyphen"/>naſtery</hi> of theirs, called the <hi>Monaſtery</hi> of <hi>San Geronimo de Juſte;</hi> where he like<g ref="char:EOLhyphen"/>wiſe ended his <hi>Dayes</hi> in the <hi>Year 1558.</hi> How the <hi>Diſmal Fire</hi> (that as 'tis ſaid, hath totally deſtroyed this <hi>Royal</hi> and <hi>Mag<g ref="char:EOLhyphen"/>nificent Palace, Convent</hi> &amp; <hi>Colledge</hi> (for
+<pb facs="tcp:46378:4"/>ſuch you will find it to be in the following <hi>Diſcourſe</hi>) first began, is ſomething <hi>un<g ref="char:EOLhyphen"/>certain,</hi> though it is <hi>generally believed</hi> it proceeded from a <hi>Rocket,</hi> or ſuch like <hi>piece</hi> of <hi>Fire work,</hi> which on a night of ſome <hi>great Solemnity</hi> (for then they common<g ref="char:EOLhyphen"/>ly uſe <hi>them</hi>) did accidentally fall amongſt the Wood-work on the top of the <hi>Roof</hi> of the <hi>Houſe,</hi> which moſt of it being <hi>Pine,</hi> doth quickly <hi>take,</hi> and is <hi>exceeding com<g ref="char:EOLhyphen"/>buſtible;</hi> but the <hi>beginnings</hi> of ſuch <hi>Misfor<g ref="char:EOLhyphen"/>tunes</hi> are for the most part <hi>obſcure,</hi> though the <hi>ſad Effects</hi> have <hi>too much light</hi> in them, as by <hi>woful Experience</hi> we have <hi>ſeen</hi> in the <hi>Dreadful Fire</hi> of our own <hi>Me<g ref="char:EOLhyphen"/>tropolis.</hi> How <hi>conſiderable</hi> a <hi>loſs</hi> this <hi>fa<g ref="char:EOLhyphen"/>mous piece</hi> of <hi>Architecture</hi> is, let any man judge by the Subſequent <hi>Deſcripti<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <pb facs="tcp:46378:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46378:5"/>
+            <head>
+               <hi>The Eſcurial; OR,</hi> A Deſcription of the Wonder of the world for Architecture and Magnificence of Structure, Built by King <hi>Philip</hi> the Se<g ref="char:EOLhyphen"/>cond of <hi>Spain;</hi> and lately Conſumed by Fire.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough in a former Diſcourſe we have parti<g ref="char:EOLhyphen"/>cularly ſhewed the principal parts of this pro<g ref="char:EOLhyphen"/>digious Piece of Architecture, and the Orna<g ref="char:EOLhyphen"/>mentals belonging to it; having uſed the terms of Art, for the ſake of thoſe that are underſtand<g ref="char:EOLhyphen"/>ing of it; and recounted all things as in reality they are, with all clearneſs poſſible, with that diſpoſition, diſtribution and meaſure which they bear; yet notwith<g ref="char:EOLhyphen"/>ſtanding all this, there are ſome perſons which love not ſuch tedious Diſcourſes; and eſpecially in things of this nature, which although they are pleaſant in the ſeeing, yet they are troubleſome in the reading: large Deſcrip<g ref="char:EOLhyphen"/>tions of them, by reaſon of the obſcurity of the terms, which in ſuch grand Fabricks repeated ſo often, always difficult, and ordinarily ſtrange, that even I my ſelf am weary to write them, although I am never ſatisfied with ſeeing this great Wonder, that occaſions me to make uſe of them: There are others, that at once deſire
+<pb n="2" facs="tcp:46378:6"/>to know the greatneſs and diſtinct parts of it, and with this reſt ſatisfied, being of opinion, that the goodneſs and rarity of it lies in the quantity and extent, ra<g ref="char:EOLhyphen"/>ther than in the quality or worth; and the largeneſs of it is more pleaſing to them, than its excellency, which they underſtand not: Or if they do underſtand it, they deſire to know whether there be much of that kind which moſt pleaſes their Fancies; at coming to ſee this Convent, encountring ſo many beautiful Cloiſters, they deſire to know the number of them; they mind the beautiful diſpoſition of the Lights; they are very attentive on the Pictures and Statues; they have an infi<g ref="char:EOLhyphen"/>nite deſire to know the number of them all; and the great noiſe that that makes, pleaſeth them moſt, and fills them with admiration; neither is this any ill humor where every thing is ſo good as here it is. For this rea<g ref="char:EOLhyphen"/>ſon I have reſolv'd, in this Diſcourſe to ſatisfie thoſe that are of this temper, reducing to an exact number as near as I can, the parts of this Noble Fabrick; not only thoſe mentioned in my former Deſcription, but like<g ref="char:EOLhyphen"/>wiſe ſuch as were paſſed over in ſilence, or were but in general mentioned, being not of principal Concern, al<g ref="char:EOLhyphen"/>though every thing is worth taking notice of; and gi<g ref="char:EOLhyphen"/>ving likewiſe a brief account of the Ornaments and Furniture; together with which, making a ſummary Rehearſal of what hath been ſaid before, for rubbing up the memories of ſuch Artiſts that ſhall read it; and for the delight of thoſe that are not ſo; to whom though they read it never ſo often, the Terms of Archi<g ref="char:EOLhyphen"/>tecture are as difficult as <hi>Arabick.</hi> I promiſe to be moſt faithful in this, as I have been in all the reſt; for it would be an infinite wrong to this Noble Edifice, not to relate whatſoever it contains; or to think that it ſtands in need of any Additions to heighten its great<g ref="char:EOLhyphen"/>neſs;
+<pb n="3" facs="tcp:46378:6"/>no leſs than it would be to my own Profeſſion not to ſpeak the Truth. It ſtands as a living Teſtimo<g ref="char:EOLhyphen"/>ny, and will for many Ages (here the Frier was no true Prophet) by which any man that ſhall doubt, may confirm himſelf in the truth of the things we here re<g ref="char:EOLhyphen"/>late; and may in part ſee it in the very Print of the ſame. Paſſing by therefore (that which I have rela<g ref="char:EOLhyphen"/>ted in the beginning of my former Deſcription) the Motives which the moſt Catholick King <hi>Philip</hi> the Se<g ref="char:EOLhyphen"/>cond had to build this wonderful Structure, and dedicate it to the Invincible Martyr of <hi>Spain,</hi> S. <hi>Law<g ref="char:EOLhyphen"/>rence,</hi> his Protector, and Saint or Devoto; and to give it to the Order of S. <hi>Hierom;</hi> paſſing by likewiſe the Election of the Situation of it, in the Kingdom of <hi>To<g ref="char:EOLhyphen"/>ledo,</hi> ſeven Leagues diſtant from <hi>Madrid</hi> Weſtward; the Platform of it, a large and vaſt Square; the ſides of which contain 2980 feet; and the Majeſtick incloſure of the Noble Places and Gardens which compaſs it a<g ref="char:EOLhyphen"/>bout, and the Materials of which it is built, which is a white kind of Stone, with darkiſh gray ſpots in it, which beautifie it much; although in many parts of it there is Marble and Jaſper in abundance, and other Stones of moſt perſpicuous politeneſs; as alſo the form of the Fabrick, which is all the good Orders of Archite<g ref="char:EOLhyphen"/>cture, <hi>Tuſcan, Dorick, Ionick, Corinthian,</hi> and <hi>Compoſite.</hi> Though indeed the moſt of it is <hi>Dorick</hi> and <hi>Ionick;</hi> and paſſing alſo the four principal Fachadas or Sides, and the three ſtately Gates which it hath on the Weſt ſide.</p>
+            <p>I proceed to tell you that within this large Quadran<g ref="char:EOLhyphen"/>gle,<note place="margin">Cloyſters.</note> there are contained 13 Cloyſters, of moſt Beauti<g ref="char:EOLhyphen"/>ful Architecture, and of great extent; all which, ex<g ref="char:EOLhyphen"/>cept one, on the Backſide of the great Chappel, and other two within the principal Cloyſter of the Palace,
+<pb n="4" facs="tcp:46378:7"/>may be counted from the Draught or Print of the Houſe, <hi>viz.</hi> 5 on the South, &amp; 5 on the North, which, with other 2, without the Quadrangle, make in all 15: the moſt of them of three Orders of Arches and Walks, others of 2, and others of 1. In which are to be ſeen ſo many Win<g ref="char:EOLhyphen"/>dows as amount to more than 680.</p>
+            <p>
+               <note place="margin">
+                  <hi>Courts</hi> 9.</note>Beſides which, there are 9 Courts, amongſt which, the <hi>Portico,</hi> or that which you firſt enter into, is the moſt Royal and Stately one in <hi>Europe.</hi>
+            </p>
+            <p>The Turrets which are raiſed upon the Corners of this Square,<note place="margin">Tmrrets.</note> and on the Croſſings of the Cloyſters, and on the Church, which may obliterate the memory of the ancient Pyramids, ſo celebrated by Antiquity, are in number 9. Amongſt which, is reckoned that fa<g ref="char:EOLhyphen"/>mous Cupula or Turret on the Church, 315 foot high from the Ground. The Globes or Balls that are placed on the top of them, upon which the Fanes move, all of Gilt Metal, are of 5 foot diameter; and that on the top of the Church of ſeven foot, inſomuch that a man of good Stature, may ſtand upright in it with both Arms extended out.</p>
+            <p>
+               <note place="margin">Windows &amp; Doors.</note>The Windows which are ſeen on the outſide, before you enter the houſe, are 1110; diſtributed with much U<g ref="char:EOLhyphen"/>niformity &amp; Order; many of them with whole Balconies, others with Breaſt high all of Iron, and well Glazed, which gives a great Luſtre and Majeſty to the Fabrick. Thoſe which are to be ſeen within in the great Court or <hi>Portico,</hi> Cloyſters, Courts, Towers, and other places, even ro the top of the Houſe, are 1578. So that the whole number of them doth come unto 2688. with the Shuts of them, of a pleaſing green colour, both for the preſervation of them, and Beauty of the Edifice. If to theſe we add the Windows of the Out-Offices, they amount unto few leſs than 4000. The Doors reckoned after the ſame manner, are in number 8000. The outward Gates in the four ſides of the Houſe are
+<pb n="5" facs="tcp:46378:7"/>16, entring through any of which, you ſeem to come into a Labyrinth; eſpecially in the Palace, where by the multiplicity of them, the Multiplicity of them, the cunningeſt man alive may eaſily loſe himſelf.</p>
+            <p>The <hi>Zaquanes</hi> or Portals at the entrance of the princi<g ref="char:EOLhyphen"/>cipal Gates, &amp; ſome others at the entrance of the noble Apartments are 14, all of very conſiderable Archite<g ref="char:EOLhyphen"/>cture.</p>
+            <p>The Fountains in the Center of the Cloyſters and Courts, for the refreſhment of the whole Houſe, the water of which is carried through the vaſt extent of it, together with thoſe in the Church, Gardens, Offices, and all places where there is occaſion for them, come to about fourſcore and ſix; together with eleven Ciſterns; that it is a doubt whether <hi>Madrid</hi> it ſelf,<note place="margin">Stairs.</note> though very plentifully watered, hath ſo many or not.</p>
+            <p>The ſeveral Stairs to go up and down, and to paſs to and again in the Cloyſters and other Apartments, are about 80. amongſt which, there are ſome of admi<g ref="char:EOLhyphen"/>rable Invention, and very many of a great number of Steps, very pleaſant and eaſie to aſcend.</p>
+            <p>The Galleries, Halls, Chambers, Cells, Offices, &amp; other Apartments, are ſo many, that it ſeems impoſſi<g ref="char:EOLhyphen"/>ble to count them; however, I ſhall do my endeavour to give a ſufficient accompt of them, reckoning for the eaſier proceeding by the difference of Habi<g ref="char:EOLhyphen"/>tations in this Fabrick, <hi>viz.</hi> it contains one Convent, two Colledges, the one of Religious, the other of Seculars, and the Palace Royal. All which are ſo ca<g ref="char:EOLhyphen"/>pacious, and ſo well furniſhed within themſelves, both of common and particular Rooms, that the ſeveral ſorts of Inhabitants, though very numerous, find ex<g ref="char:EOLhyphen"/>cellent accommodation in them.</p>
+            <p>The King with his whole Houſe, the Queen, and all the Royal Family in the Palace; and yet it is known that the Train which they ordinarily bring with
+<pb n="6" facs="tcp:46378:8"/>them gives care enough to the moſt populous Cities to entertain them.</p>
+            <p>There are about 150 Religious in the Convent, 50 more in the Colledge, and as many more Seculars in the Seminary, either Graduates or under Graduates, from whence may be inferr'd what Chambers, Lodgings, Cells, &amp;c. are required for ſo great a number of inha<g ref="char:EOLhyphen"/>bitants, but there are moreover and above in the Pa<g ref="char:EOLhyphen"/>lace, beſides the Rooms of State for the Noble men and Ladies, in the Kings, Queens, and Infanta's apartments, eight Galleries,<note place="margin">Galleries in the Pa<g ref="char:EOLhyphen"/>lace <hi>8.</hi>
+               </note> beſides lodging rooms.</p>
+            <p>In the Convent and Colledges, there are likewiſe large ſtately Roomes of this kind, but differenced by their names, occaſioned either from buſineſs done in them, or things that are there laid up. There are three Capitulos or Chapter houſes, three Libraries, five great Halls,<note place="margin">In the con<g ref="char:EOLhyphen"/>vent and Colledge.</note> ſix Dormitories, three Halls in the Hoſ<g ref="char:EOLhyphen"/>pital, and four others which ſerve for divers offices; all very large and equall as it were for length and breadth. The which with divers others for walks and entertain<g ref="char:EOLhyphen"/>ments make in all thirty.</p>
+            <p>The Oratories and Chappels which are (without the principal Church) diſtributed through theſe ſeveral ha<g ref="char:EOLhyphen"/>bitations,<note place="margin">Oratories.</note> counting with them that of the old Church and that of the offices of the palace, are ſeven of excel<g ref="char:EOLhyphen"/>lent Symmetry and Elegance.</p>
+            <p>The Refectories or Eating places in the Convent, Colledge, Seminaries, &amp;c. are in all nine, very large and neat.<note place="margin">Refecto<g ref="char:EOLhyphen"/>ries <hi>9.</hi> Infirme<g ref="char:EOLhyphen"/>rias.</note>
+            </p>
+            <p>The Infirmerias or places to receive the Sick, are in all five, with great variety of Chambers in them, pla<g ref="char:EOLhyphen"/>ced with ſuch reſpect to their Chappels, that the Sick may hear Maſs as they lye in their beds.</p>
+            <pb n="7" facs="tcp:46378:8"/>
+            <p>The Botica, or Apothecaries apartment hath five or ſix admirable rooms, beſides others, which make of it a large houſe.</p>
+            <p>The Hoſpedarias or places for entertainment of Strangers are two,<note place="margin">Hoſped.</note> the one is within the houſe with large dining rooms, and decent Chambers for enter<g ref="char:EOLhyphen"/>tainment of Strangers, the which are attended by young Youths that are Students; the other is without, with all manner likewiſe of accommodation.</p>
+            <p>The Kitchins of the Palace Convent and Colledges are in all nine,<note place="margin">Cocin.</note> and as many houſes of Office.</p>
+            <p>The Rooms which are under the houſe,<note place="margin">Cellars.</note> by whoſe ſtrong Arches the whole is ſuſtained, are above forty, large and lightſome, and of very beautiful Architecture, and that ſerve for many offices, as the Caterers, Plate-keepers, &amp;c. There are others likewiſe for diſtributi<g ref="char:EOLhyphen"/>on of the Fountain Pipes, which are divided up and down in theſe Cellars, where there are likewiſe eleven Ciſterns, the leaſt of which holds 10000 quarts of Water.</p>
+            <p>The Lofts and little rooms on the houſe top all co<g ref="char:EOLhyphen"/>vered with Slat,<note place="margin">Lofts.</note> and joyn'd in form of a Grid Iron.</p>
+            <p>All theſe parts are included in this prodigious build<g ref="char:EOLhyphen"/>ing,<note place="margin">Church.</note> beſides the Church and <hi>Sacriſtia,</hi> or Repoſitory of Reliques and Sacredotal Veſtments, where there are many more of great extent and amplitude. For the Church which is in length 374 feet, and 230 in breadth, includes the great Chappel, the Quire, the under Quire, divers other Chappels, the Antiquires, and fortyeight Altars and other pieces, which of themſelves alone are ſufficient objects of admiration.</p>
+            <p>It hath ſeven extraordinary great and beautiful Iſles, in the top of which are ſeen twenty ſix Arches, and o<g ref="char:EOLhyphen"/>ver them large empty ſpaces, in like manner, as there is under the Floor of it.</p>
+            <pb n="8" facs="tcp:46378:9"/>
+            <p>The <hi>Sacriſtia</hi> being very large and capacious, con<g ref="char:EOLhyphen"/>ſiſts of eight ſtately rooms, beſides divers others very conſiderable and great,<note place="margin">Sacriſtia.</note> for the uſ of thoſe that mini<g ref="char:EOLhyphen"/>ſter about them, which are indeed but all requiſite for this wonder of the World.</p>
+            <p>Theſe are the parts ſo far as I can reckon them of this miraculous Fabrick; the whole Machine contains theſe Rooms and apartments in it, and to tell in one word the Multitude, and High grandure of them, if one would go through all of them, and the whole ſpace contain'd in the Houſe and Offices belonging to it, it would take up four whole days to doe it, it being a journey of thirty three meaſured leagues, or ninety nine miles, ſo vaſt and large is this curious piece. I come now to the number of the Ornaments of Furni<g ref="char:EOLhyphen"/>ture, which exceedingly beautifies and enriches this ſtately Edifice.</p>
+            <p>I fay therefore that the ſtatues which are in it which may well compare for beauty and Grandure with the moſt celebrated <hi>Coloſſus</hi>'s,<note place="margin">Statues.</note> of the Ancients are in all fifty and one, thirteen of Stone, and thirty eight of mettal, richly guilt, and almoſt all of them much bigger then the life, ſome of them two or three times bigger, which give an exceeding great Majeſty to the Frontiſpiece, the Portico or firſt great Court, the Church and principal Cloyſter, into which they are diſtribu<g ref="char:EOLhyphen"/>ted, the names of the Maſters which wrought them are down in the annexed Catalogue.</p>
+            <p>Other leſs pieces, as Crucifixes, Pictures of St. <hi>Je<g ref="char:EOLhyphen"/>rome</hi> of St. <hi>John Baptiſt,</hi> and likewiſe of our Lady, which are placed in divers Cells, and other parts of the Houſe of ineſtimable Sculpture (without taking notice now of thoſe in the Church) doe amount unto fifty, wrought on divers materials, even to Porphery it ſelf.</p>
+            <pb n="9" facs="tcp:46378:9"/>
+            <p>
+               <note place="margin">Pictures in Oyl co<g ref="char:EOLhyphen"/>lours and Freſco.</note>The Pictures in Oyle colours and in <hi>Freſco</hi> which ennoble and give a kind of awfull Majeſty to the ſe<g ref="char:EOLhyphen"/>veral places before mentioned, are very many, I ſhall give you the ſumm of thoſe that are of greateſt worth and value, they are in General 1622 Pictures of the life and Hiſtory, all in oyle colours, diſtributed up and down the whole houſe; and although they be not all of them of the rareſt and greateſt value, yet there is not one of them which is not very well worth our ad<g ref="char:EOLhyphen"/>miration. I reckon not at all of the more ordinary ſort which ſerve onely to cover the walls. The greater part of them are originalls, and many of them of the moſt famous and celebrated Maſters, as of <hi>Maſacio, Rafaell, Sancio, <g ref="char:V">Ʋ</g>rbino, Leonardo de vinci, Titian,</hi>
+               <note place="margin">Maſters.</note> 
+               <hi>Bordo<g ref="char:EOLhyphen"/>nan Sebaſtian del piombo, Andreas del Sarto, Paulo Vero<g ref="char:EOLhyphen"/>neſe,</hi> and <hi>Carolos Veroneſe,</hi> his Son, <hi>Jacobo Robuſto</hi> or <hi>Tintoretto, Baſan, Geronimo Muciano, Parmeſano, An<g ref="char:EOLhyphen"/>tonio Acorego</hi> or <hi>Corregio. Federico Barroſi, Peregrin, Guido Boloneſe, Vandike, Ruben, Joſeph de Ribera</hi> or <hi>Span<g ref="char:EOLhyphen"/>nolette, Juan Fernandes Mudo, Luqueto, Boſco, Albert Du<g ref="char:EOLhyphen"/>ter, Michael Cuſin, Dominico Greco, Lavinia Fontana, Romulo, Bartolomeos Carducho,</hi> and many other excellent hands which have made themſelves famous in Hi<g ref="char:EOLhyphen"/>ſtory.</p>
+            <p>There are other Originals of Authors leſs known, or whoſe names are altogether unknown, moſt of them ve<g ref="char:EOLhyphen"/>ry good, many excellent well, inſomuch that they give occaſion to enquire of the Maſters of them, whoſe names it is great pity that they are not known.</p>
+            <p>There are others which are Copies of great pieces of the aforementioned Maſters, &amp; alſo of <hi>Michael Angelo</hi> of very great value, which thoſe that are underſtand<g ref="char:EOLhyphen"/>ing or them, ſay, there is no want of Originals where thoſe are placed.</p>
+            <pb n="10" facs="tcp:46378:10"/>
+            <p>There are others that are Pictures of Popes and Kings, and perſons famous in all faculties and learning, in number 256.</p>
+            <p>There are other pieces of Landskip, Fruitery, &amp;c. al<g ref="char:EOLhyphen"/>moſt innumerable, which give a great deal of beauti<g ref="char:EOLhyphen"/>ful and pleaſant variety. It may ſuffice to tell you that there is not a Cell, a Chamber, an ordinary Room, in which there is not found of theſe delightful ſorts of Ornaments, out of <hi>Italy, Germany, France, Flanders,</hi> and many which were done in <hi>Spain</hi> incomparably well.</p>
+            <p>As to the Paint in Freſco, or upon the bare walls, there is very much of it, and of the beſt in Europe of this ſort of Paint. There are 12 great pieces in the houſe, beſides Hiſtories 134. ſo large and great, that they include in them divers others. The Painting of the Clory of the Quire, and of the Principal Cloy<g ref="char:EOLhyphen"/>ſter of the Library, contains at leaſt 250, The work<g ref="char:EOLhyphen"/>manſhip of <hi>Peregrin de Peregrini, Lucas Cauxioſo</hi> or <hi>Lu<g ref="char:EOLhyphen"/>queto, Granelo</hi> and <hi>Fabricio,</hi> Sons of <hi>Bergamaſco, Franciſ<g ref="char:EOLhyphen"/>co <g ref="char:V">Ʋ</g>rbina, Romulo, Caravajali,</hi> and <hi>Barroſo.</hi> There are 14 apartments, the Floors of which ſeem to be as it were painted with the variety of white and coloured Marble, of moſt ſplendid and curious work, as is to be ſeen in the principal Cloyſter, both below and a<g ref="char:EOLhyphen"/>bove ſtairs, in the Capitulos or Chapter-houſes, in the Priors Cell, in the Library, in the Church, in the Quire, and Antequire, in the Sacriſtia, in the great Chappel, the firſt and ſecond Table within the Rejas or Grates, which are of divers the pureſt Jaſpers, and in the Ora<g ref="char:EOLhyphen"/>tories of the Kings which all appear like Chriſtall, but with a thouſand varieties of colour. There are other Ornaments of Furniture which very much beautifie and ennoble the ſeveral Apartments, as the Stations for
+<pb n="11" facs="tcp:46378:10"/>books, the books themſelves, the Eſcritoios or Accom<g ref="char:EOLhyphen"/>modations for writing, Tables, and ſuch like things as well in the Library as in the great rooms of the pa<g ref="char:EOLhyphen"/>lace, and the Fryers Cells, all very well worth the taking notice of.</p>
+            <p>The Stands for the Books in the Grand Library are made of ſeven ſeveral ſorts of wood in-laid,<note place="margin">Library.</note> of the <hi>Indies</hi> and of <hi>Spain, viz.</hi> the <hi>Caoba, Acana, Ebony, Ce<g ref="char:EOLhyphen"/>dar, Orange, Pine and Wall-Nut-Tree.</hi> Thoſe of the o<g ref="char:EOLhyphen"/>ther Libraries, although they are not all out ſo rich, yet are exceeding handſome.</p>
+            <p>In the diviſions that are made for the books,<note place="margin">Books.</note> there are 18000 Volumes, of all Subjects, nobly bound and guilt alike, inſomuch that the Libraries appear both Rich and Beautiful. In the Principal Library are kept as Reliques of great eſteem, eight Manuſcripts of Saints, and another in which the Goſpel was written in Let<g ref="char:EOLhyphen"/>ters of Gold, in the time of the Emperour <hi>Conradus.</hi> As likewiſe divers other works of great Veneration, many of them Original Mannſcripts if not all, for ſo they be for their great antiquity.</p>
+            <p>Three or four ſeveral ſorte of Paper uſed by ſeveral Nations in the very infancy of Writing. Beſides thoſe Books we have already recounted, there are in the Fry<g ref="char:EOLhyphen"/>ers Cells and other places a very great number which were left by <hi>Phillip</hi> II. or bought ſince, in all ſixteen thouſand, inſomuch, that reckoning theſe, together with thoſe of the Libraries, they come unto thir<g ref="char:EOLhyphen"/>ty four thouſand in the whole houſe, amongſt which there are to be found the beſt ſort of Writers both An<g ref="char:EOLhyphen"/>cient and Modern.</p>
+            <p>In the Church there are five noble Grates of Braſs,<note place="margin">Grates i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the C<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</note> in the doors of it, and thirty ſeven diviſions of Balco<g ref="char:EOLhyphen"/>nies, Corredores and Niches diſtributed through the
+<pb n="12" facs="tcp:46378:11"/>extent of the walks, and in other parts; all with Bal<g ref="char:EOLhyphen"/>lauſters, Globes, or Croſſes of Braſs, and exceeding beautiful on the outſide,</p>
+            <p>There is likewiſe another ſort of Ornaments and Ri<g ref="char:EOLhyphen"/>ches to be admired, which would weary one to count, which ſurpriſe the ſight, and move to devotion and reverence,<note place="margin">Altars.</note> aſtoniſhing and elevating the affections of thoſe that ſee them; There are 48 Altars, and as ma<g ref="char:EOLhyphen"/>ny fair pieces of Imagery, very uniform, and covered with Gold, placed in their Chappels and Niches, with Pictures of exceeding worth reckoned in the number of thoſe we before mentioned.</p>
+            <p>The High Altar is as Chieftain to all the reſt, 93 feet in height,<note place="margin">High Al<g ref="char:EOLhyphen"/>tar.</note> and forty nine in breadth, which fills all that Grand Chappel which it ſtands in with the luſtre, of the Jaſpers and Metall covered with Gold, with 4 Orders of Pillars, which make in all 18. in which is to be ſeen the excellency of Architecture, in the <hi>Do<g ref="char:EOLhyphen"/>rick, Ionick, Corinthian</hi> and <hi>Compoſite</hi> Orders, with fif<g ref="char:EOLhyphen"/>teen Statues of extraordinary greatneſs, all of Mettal laid over with Gold, the work of <hi>Pompeo Leoni,</hi> and other 13 little ones in the <hi>Cuſtodia,</hi> or the place where the conſecrated Hoſt is kept, which with ſome others intombed on the ſides, makes the whole number in this great Chappel to amount unto thirty eight, beſides eight Noble pieces of <hi>Peregrin,</hi> and <hi>Federico Zucaro.</hi> The Stupendious work of the <hi>Cuſtodia</hi> done by <hi>Jacobo Trezo,</hi> all of it of the moſt pretious Stones of Spain, and Met<g ref="char:EOLhyphen"/>tals guilt, with eight Pillars work'd and poliſhed with Diamonds, the nobleneſs of the material, being a bloud coloured Jaſper, admitting of no other inſtrument or tool to touch it. Every one of theſe Pillars coſt ten thouſand Ducats, and in all fourſcore thouſand. But the moſt pretious Jewel of all, is, the leſſer <hi>Cuſtodia,</hi>
+               <pb n="13" facs="tcp:46378:11"/>within the other. The doors of the <hi>Sagrario,</hi> or <hi>Sanctum Sanctorum,</hi> are of the fineſt Jaſper, and brighteſt Braſs, and the place it ſelf a moſt Heavenly piece. The two Royal Eſcutcheons which are on the ſides of the Chap<g ref="char:EOLhyphen"/>pel, over the Kings Tombs, are all of Jaſper, very rich and pretious, with very ſignificant deviſes. The 40 Altars which are diſperſed up and down the Body of the Church, beſides divers others, have ſeveral changes of Frontalls or Ornamental Coverings, for every day if need require, and for the ſeveral Feſtivals and Holy<g ref="char:EOLhyphen"/>days there are ſeveral ſuits of Attirements uniform in co<g ref="char:EOLhyphen"/>lour and faſhion, and for this purpoſe they are kept, ſome in the <hi>Sacriſtia,</hi> and others in Cheſts neer unto the Altars.</p>
+            <p>The high Altar, and the two Altars called the Altars <hi>de Reliquias</hi> or Reliques, are richeſt in this ſort. Eve<g ref="char:EOLhyphen"/>ry one of them having fifty ſeveral changes of excee<g ref="char:EOLhyphen"/>ding great worth, of the richeſt Brocados and wrought Silks. The Candleſticks which admirably grace all the Altars, are in number 250, ſome of Braſs gilded, others of Silver, and others of Chriſtal. Beſides which every Altar hath one of a great number of branches, which are lighted immediately before the Conſecration at Maſs, they are in all 40.</p>
+            <p>The Croſſes which are placed upon theſe Altars, with their Crucifixes of Braſs and Silver are in number one hundred, and that which is the Grandure of all theſe Altars, is, that they are all conſecrated, inſomuch that all the Tables of them are Altars, and every one of them hath placed within it a Box of Reliques, of the ſame Saint to whom the Altar is Dedicated.</p>
+            <p>To denote that the whole Church is conſecrated, there are twelve Croſſes ſet up in ſeveral places of it, where the Unction was made at Conſecration, one of which is of the moſt beautiful Jaſper, upon a White
+<pb n="14" facs="tcp:46378:12"/>Marble, which is a great Ornament unto it. There ate ſix mighty Lamps all of Silver, hung up in the large Iſles of the Church, of moſt curious work, which give Light unto them all; and in the principal Iſle are pla<g ref="char:EOLhyphen"/>ced fourteen great Stands for Wax-Torches, of a Metal Silver'd over, of great Magnificence and Luſtre. When all theſe are lighted together with the Candles upon the Altars, and Luminaries placed in all the more emi<g ref="char:EOLhyphen"/>nent parts of the Church, as they uſe to do at the firſt Reception of Kings and Queens, and other Solemn Oc<g ref="char:EOLhyphen"/>caſions and Feſtivals, it looks like a very Heaven upon Earth.</p>
+            <p>The Organs throughout the whole Church are in number 8;<note place="margin">Organs.</note> which both beautifie it with their out<g ref="char:EOLhyphen"/>ward Luſtre, the Lofts being all gilt; and enliven it with their Divine Melody. There is one all of Silver, extraordinary rich, which is plaid upon every <hi>Corpus Chriſti</hi> Day.</p>
+            <p>The Bells of the Towers are in all 59. forty of which are in very tunable Chimes,<note place="margin">Bells.</note> and have their Keys like Organs, which makes a pleaſant Muſick to play up<g ref="char:EOLhyphen"/>on them.</p>
+            <p>The Reliques which arc kept in the ſeveral <hi>Relicarios,</hi>
+               <note place="margin">Reliques.</note> or Places appointed for them, which are very Majeſtick and Auguſt, are ſo many, that even from our Saviour, and the Bleſſed Virgin, there are Reliques of all the Saints celebrated in the Church, except S. <hi>Joſeph,</hi> and S. <hi>John</hi> the Evangeliſt; yea, there are even to the ve<g ref="char:EOLhyphen"/>ry Prophets before the coming of Chriſt into the world, the Boxes and Veſſels in which with great veneration they are kept in number 515, ſome of Gold, ſome of Silver, ſome of Chryſtal, and other Precious Stones.</p>
+            <p>For Singing of Divine Praiſes in the Quire, the pro<g ref="char:EOLhyphen"/>per work of the Sons of S. <hi>Hierom,</hi> in imitation of the
+<pb n="15" facs="tcp:46378:12"/>moſt Noble Angelical Spirits, there are 216 Books, in their proper Stands, placed in the Anti-Quire, of ad<g ref="char:EOLhyphen"/>mirable proportion and beauty: It is the beſt ſort of Library for this Service, that hath been ſeen either in <hi>Spain,</hi> or any other place; the Stations for the Books are of the ſame Wood as the Seats of the Quire; and thoſe of the ſeveral richeſt ſorts like them we before mentioned in the principal Library. The number of the Seats is 128. in a double Row: The Divine Ser<g ref="char:EOLhyphen"/>vice which is here celebrated, is more raviſhing than whatever is to be ſeen in the Houſe. The Faciſtor or great Desk on which ſome Books are placed, is of all the rareſt ſorts of Wood, and of Braſs gilded, ſup<g ref="char:EOLhyphen"/>ported by four Pedeſtals of the ſame Metal, very ad<g ref="char:EOLhyphen"/>mirable, ſtately and beautiful, and in this kind, the ve<g ref="char:EOLhyphen"/>ry beſt in the World.</p>
+            <p>The Ornaments and Riches which are in the <hi>Sacri<g ref="char:EOLhyphen"/>ſtia</hi> or Veſtry,<note place="margin">Ornam. in the <hi>Sacret<g ref="char:EOLhyphen"/>ta.</hi>
+               </note> in order to Divine Service, are ve<g ref="char:EOLhyphen"/>ry numerons, kept in forty Diviſions of Cheſts and Drawers of the ſame Wood, as is afore-mentioned in the Quire, the bottoms of which are all of them Ce<g ref="char:EOLhyphen"/>dar for the incorruptibility of it.</p>
+            <p>The <hi>Brocado</hi>-Veſtments, and others of Silk, and Cloath of Gold and Silver,<note place="margin">Brocado-<hi>Veſtments</hi>
+               </note> are 213. of all varieties of Colours.</p>
+            <p>The <hi>Caſulla's,</hi>
+               <note place="margin">Caſullas.</note> or Veſtments for the Prieſts to ſay Maſs in, belonging to all the Altars, are above twelve hundred; the <hi>Dalmaticks</hi> to be for the ſame uſe, are one hundred: And when we mention here all the Al<g ref="char:EOLhyphen"/>tars, we mean, not only thoſe of the Church, but alſo all the reſt generally through the Houſe, which are in number 70.</p>
+            <p>The <hi>Mangas</hi> worn in repreſentation of our Saviours Bonds, and uſed in Proceſſions,<note place="margin">Mangas.</note> are ſeven and twenty.
+<pb n="16" facs="tcp:46378:13"/>The ſine Linnen employed in Divine Services for Sur<g ref="char:EOLhyphen"/>plices, Roquets, Altar-Cloaths, Towels, <hi>&amp;c.</hi> though exceeding much, yet is never more than what is ſpent on neceſſity for Sacred Uſes; and ſtill in plain truth, there is not ſo rich and plentiful a Furniture to be found in any other place beſides this in the world.</p>
+            <p>The Utenſils and pieces of Gold, employed on the ſame occaſions,<note place="margin">
+                  <g ref="char:V">Ʋ</g>tenſils for the Ce<g ref="char:EOLhyphen"/>lebration of Divine Service.</note> are not many, but of the richeſt, and moſt coſtly ſort in <hi>Spain,</hi> as a Chalice, a Cuſtodia, a Breſt-plate for the Prior, which he wears when he cele<g ref="char:EOLhyphen"/>brates the Maſs; and two others of great worth. Of Silver there is a great Service, yet nothing but what there is occaſion for: Beſides the Croſſes and Candle<g ref="char:EOLhyphen"/>ſticks before mentioned, there are fourſcore Chalices, 2 Cuſtodia's, 8 Incenſrio's, or Utenſils to burn Incenſe in; ſeveral Fountains, perfuming Pans, and the like; in all 24. The chief or the Grandeur of which, conſiſts in the Rarity of the Workmanſhip or Faſhion. Beſides, there are four great <hi>Cereales</hi> or Torch-bearers which are uſed on the chief Holidays, and other four, which are uſed at the Celebration of the Hours, or Comme<g ref="char:EOLhyphen"/>ration of the Kings and Queens; there are 24 which the Students in the Seminary carry in Proceſſion on <hi>Corpus</hi> Day, and <hi>Thurſday</hi> and <hi>Friday</hi> in the Holy week; all which are worth admiration: And together with the Riches which are ſeen in the <hi>Relicario's,</hi> or Repo<g ref="char:EOLhyphen"/>ſitories of Relicks of the ſame nature and quality, ren<g ref="char:EOLhyphen"/>ders it a Treaſure worthy this great place, which being exactly and judiciouſly viewed, appears ſo plentifully and Royally provided, that conſidering likewiſe the vaſt number and perfection of the parts or this eminent Structure, together with the Ornaments and Riches it contains; the Sum that the whole coſt, being ſix Milli<g ref="char:EOLhyphen"/>ons of Ducats, ſeems but little. Here I had thought
+<pb n="17" facs="tcp:46378:13"/>to have laid down the greatneſs of many other Parti<g ref="char:EOLhyphen"/>culars, which occur in this Fabrick, eſpecially in the Materials of it, which would be a work too tedious, and over-curious, as to count the quantity of Lime, Mortar, the Millions of Loads of Wood, the infinite number of Slates, Marble, <hi>&amp;c.</hi> I ſhall only in gene<g ref="char:EOLhyphen"/>ral ſay, that if theſe things were but particularly ſeen heaped up in their kinds and ſorts, you would think there were enough to build a fair City. In the Iron<g ref="char:EOLhyphen"/>work only, <hi>viz.</hi> in Locks and Nails, without counting Balconies, I have found out there was ſpent one hun<g ref="char:EOLhyphen"/>dred twenty nine thouſand fourſcore and three <hi>Arrobas,</hi> every <hi>Arroba</hi> containing five and twenty pound. Of the very Keys there are 50 <hi>Arrobas,</hi> or more. Of other Me<g ref="char:EOLhyphen"/>tals, as of Lead, Tin, Steel, Copper, there is a moſt vaſt quantity; for of Lead only, there is found above Ninety nine thouſand and thirty <hi>Arrobas,</hi> partly on the Church, and partly on the principal Cloyſters, which are covered with Sheets of this Metal; as alſo in divers other parts amongſt the Slat-works. The Wire for the Net-work of the Windows weighs above a thouſand <hi>Arrobas,</hi> and if here we ſhould reckon the Glaſs-work of all the Windows, it would be a vaſt Count; for the immenſity of this is one of the grand Beauties of this Houſe.</p>
+            <p>The number of people concern'd in this great work, is very difficult to be told; for beſides the multitude of Maſters, Overſeers, Hirers of Workmen, other Offi<g ref="char:EOLhyphen"/>cers and Day-Labourers, which were employed upon the very Place and Work, ſome in Cranes, ſome in Wheels, ſome on Scaffolds on high, to diſtribute and place the Materials, as Stone, Wood, Mortar, <hi>&amp;c.</hi> there being of all ſorts uſed at the ſame time: There was, I ſay, beſides theſe, an infinite num<g ref="char:EOLhyphen"/>ber
+<pb n="18" facs="tcp:46378:14"/>of all kinds of Artificers diſperſed round about in the Fields; where you might ſee Smiths, Carpenters, Stone-cutters, and all ſorts imaginable, with their Huts and Tents for their Lodgings, and defence from Wea<g ref="char:EOLhyphen"/>ther, not unlike a very numerous Army. Others that work's without doors, Limning, Painting, Gilding, Embroidering, augmented, likewiſe the number, no leſs than thoſe which were employed in Door-work, Window-work, Cheſt-work, Seat-work, and fitting of places for Books to ſtand in, and that wrought in all ſort of In-laid Work; beſides thoſe that wrought in Metals, as melting the Organs, caſting the Bells, Balco<g ref="char:EOLhyphen"/>nies, and running the Sheets of Lead, and the like; that by this may be gueſſed how great a number were required to this Work. The Carters likewiſe, and thoſe that had the Conduct of the Carriages, that brought Stone ready wrought, and Statues of that prodigious bigneſs, that could not be ſtirred with leſs than twenty yoke of Oxen; yea, ſometimes forty. In all the Of<g ref="char:EOLhyphen"/>fices and Employments there were Proveditors and O<g ref="char:EOLhyphen"/>verſeers to haſten and encourage the Workmen in their reſpective Tasks, that every thing went on without Noiſe or Trouble. Others aſſiſted at the management of the Wheels and Engines turned by water, for Plai<g ref="char:EOLhyphen"/>ſtering, Sawing and Poliſhing; others in Rope, Cable-making, and ſuch like work; and yet beſides all theſe, there were employed in many other places perſons of diverſe Nations.</p>
+            <p>In the Jaſper-Quarries, not far from a place called <hi>Burgo de Oſma,</hi> the <hi>Spaniards</hi> and <hi>Italians</hi> hewed out, and wrought that ſort of Stone for this Building.</p>
+            <p>In <hi>Madrid</hi> the <hi>Cuſtodia</hi> was made and part of the <hi>Re<g ref="char:EOLhyphen"/>tablo,</hi> whither there were flocked together a great ma<g ref="char:EOLhyphen"/>ny Maſters and famous Artificers.</p>
+            <pb n="19" facs="tcp:46378:14"/>
+            <p>In <hi>Guadalaarra,</hi> in <hi>Cuenca,</hi> and other parts, were made a great quantity of Rejas or Grates, and Balco<g ref="char:EOLhyphen"/>nies; beſides thoſe that were wrought upon the place.</p>
+            <p>In <hi>Zaragoſa</hi> were caſt the principal Grates of Braſs for the Church of the <hi>Antepechos</hi> or Balcony-work that be<g ref="char:EOLhyphen"/>longs to the ſame.</p>
+            <p>In the Mountains <hi>de Filabres</hi> was got the white Mar<g ref="char:EOLhyphen"/>ble; as alſo in thoſe <hi>de Las Navas,</hi> and in <hi>Eſtremoz;</hi> and near unto <hi>Granada,</hi> on the Banks of the River <hi>Xenil,</hi> in the <hi>Sierras,</hi> or Mountains of <hi>Arazena,</hi> and divers o<g ref="char:EOLhyphen"/>ther parts, the gray, green, red, black, bloud-colour<g ref="char:EOLhyphen"/>ed, and of a thouſand other ſorts of Colours.</p>
+            <p>The <hi>Pinares,</hi> or Pine-woods of <hi>Cuenca, Balſaia,</hi> of <hi>Segovia, Quexegal de Avila,</hi> and <hi>de Las Navas,</hi> were peo<g ref="char:EOLhyphen"/>pled with Work-men, who with Hatchets and Axes, were continually felling the talleſt Pine trees, and working of them, ſo that the Woods did always eccho with their Blows, and the noiſe of their Saws.</p>
+            <p>In <hi>Florence</hi> and <hi>Milan</hi> were caſt the great Statues of Braſs.</p>
+            <p>In <hi>Toledo</hi> were made the Lamps, Candleſticks, Stands for Torches, Croſſes and Cenſers. In <hi>Flanders</hi> were made other ſorts of Candleſticks of Braſs, ſome very vaſt ones, others of a middling ſort, and others leſs, and great ſtore of fine Linnen curiouſly wrought for the Ornament of the Cells.</p>
+            <p>In the very Nunneries, throughout all parts, were found very many perſons who were daily employed in making all ſorts of curious Needle-work, and a thou<g ref="char:EOLhyphen"/>ſand ſorts of ſeveral Ornaments for the enriching of this Royal Fabrick. So that a great part of this work was ſcattered up and down throughout all <hi>Spain, Italy,</hi> and <hi>Flanders;</hi> inſomuch that it is impoſſible to reduce to certain number the Labourers concerned in it.</p>
+            <pb n="20" facs="tcp:46378:15"/>
+            <p>This wonder of Architecture was thirty and eight years in Building, <hi>viz.</hi> twenty four to the laying of the laſt ſtone, and fourteen in the furniſhing and enriching of it with all its Adornments, even to the death of King <hi>Philip</hi> the Second, which happened in the Year 1598.</p>
+            <p>In this place it were proper to add ſomething touching the <hi>Pantheon,</hi> or Burying place of the Kings of <hi>Spain,</hi> ſituated under the High Altar of the great Church; but in regard that hath eſcaped the Fu<g ref="char:EOLhyphen"/>ry of the Flames, and may ſtill invite Forreigners and Travellers as yet to viſit it, there is leſs need at preſent to give an exact Deſcription of it. The Name of <hi>Pan<g ref="char:EOLhyphen"/>theon</hi> was given unto it in imitation of that which at <hi>Rome</hi> is called <hi>Il Templo di Santa Maria La Rotunda;</hi> anciently dedicated to all the Heathen Gods, and with more reaſon now (as being founded on the Holy Scrip<g ref="char:EOLhyphen"/>ture) that name may be allowed to ſo ſtately a Dormi<g ref="char:EOLhyphen"/>tory of Chriſtian Princes. In this Magnificent Burying-place are repoſited 26 Marble Coffins, bound about with Gilt Braſs, and ſupported on Lions orderly diſpo<g ref="char:EOLhyphen"/>ſed in the ſeveral ſides of it; 8 of theſe contain the Roy<g ref="char:EOLhyphen"/>al Corps of the Kings and Queens hereafter mentioned, <hi>viz.</hi> In the firſt, is the Body of <hi>Charles,</hi> the 5th. Emperor, and firſt King of that Name in <hi>Spain.</hi> In the Second, is the Body of King <hi>Philip</hi> the Second, his Son. In the third, of <hi>Philip</hi> the Third, Fifth Son, but Succeſſor of of <hi>Philip</hi> the Second. In the Fourth, of <hi>Philip</hi> the 4th. Eldeſt Son, and Succeſſor <hi>Philip</hi> the Third. Theſe lie all on the Goſpel ſide of the Altar. Oppoſite unto them on the Epiſtle-ſide, lie their ſeveral Queens by whom they had Iſſue: For example, againſt <hi>Charles</hi> the Fifth, is placed the Empreſs and Queen of <hi>Spain, Donna Iſabella</hi> his only Wife, Daughter to King <hi>Emanu<g ref="char:EOLhyphen"/>el</hi>
+               <pb n="21" facs="tcp:46378:15"/>of <hi>Portugal;</hi> and the Queen <hi>Donna Maria,</hi> who was Daughter to the Catholick Monarchs <hi>Ferdipando</hi> and <hi>Iſabella.</hi> Over againſt <hi>Philip</hi> the Second, lies the Queen <hi>Donna Anna</hi> his fourth Wife, Daughter to <hi>Maximilian</hi> the Emperour, ſecond of that Name, and of the Empe<g ref="char:EOLhyphen"/>reſs <hi>Donna Maria,</hi> Siſter to the ſaid King. Againſt <hi>Philip</hi> the Third is placed <hi>Donna Margarita,</hi> his only Wife, and Daughter of <hi>Charles</hi> Arch-Duke of <hi>Auſtria,</hi> and of <hi>Mary</hi> Daughter of the Duke of <hi>Bavaria,</hi> and Niece of the Emperour <hi>Ferdinand,</hi> Brother of <hi>Charles</hi> the Fifth. Againſt <hi>Philip</hi> the Fourth, <hi>Donna Iſabel</hi> of <hi>Bourbon,</hi> his firſt Wife, Daughter of <hi>Henry</hi> the Fourth, and of <hi>Madonna Maria Di Medici,</hi> King and Queen of <hi>France.</hi> Theſe eight Bodies only are as yet depoſited in the <hi>Pantheon:</hi> For the reſt of the Blood-Royal of the Houſe of <hi>Auſtria,</hi> and the Queens that have had no Iſ<g ref="char:EOLhyphen"/>ſue, there is another Place over againſt the <hi>Sacriſtia</hi> of the <hi>Pantheon</hi> (a very Noble Vault) and within the Por<g ref="char:EOLhyphen"/>tal or Entrance of the <hi>Pantheon</hi> it ſelf, where this Epi<g ref="char:EOLhyphen"/>taph preſents it ſelf to the goers in.</p>
+            <q>
+               <p>D. O. M.</p>
+               <lg>
+                  <l>
+                     <hi>Locus Sacer Mortalitatis Exuviis</hi>
+                  </l>
+                  <l>
+                     <hi>Catholicorum Regum,</hi>
+                  </l>
+                  <l>
+                     <hi>A Reſtauratore Vitae, cujus Arae Max.</hi>
+                  </l>
+                  <l>
+                     <hi>Auſtriaca adhuc pietate ſubjacent</hi>
+                  </l>
+                  <l>
+                     <hi>Optatum Diem expectantium</hi>
+                  </l>
+                  <l>
+                     <hi>Quam poſthumam Sedem ſibi, &amp; ſuis</hi>
+                  </l>
+               </lg>
+               <p>Carolus Caeſarum <hi>Maximus in Votis habuit;</hi>
+               </p>
+               <p>Philippus <hi>Secundus Regum prudentiſſimus clegit;</hi>
+               </p>
+               <p>Philippus <hi>Tertius vere pius inchoavit;</hi>
+               </p>
+               <p>Philippus IV.</p>
+               <p>
+                  <hi>Clementia, Conſtantia, Religione Magnus Auxil. Ornavit, abſolvit</hi>
+               </p>
+               <p>Anno Dom. 1654.</p>
+            </q>
+            <pb n="22" facs="tcp:46378:16"/>
+            <p>The chief Architects of this Incomparable Work, were, <hi>Don Juan Baptiſta Creccucio</hi> Brother to the Car<g ref="char:EOLhyphen"/>dinal <hi>Creccucio;</hi> and <hi>Pedro Lizargarate,</hi> a <hi>Biſcayner.</hi>
+            </p>
+            <div type="list">
+               <head>The Catalogue that follows contains the Names of the Principal Maſters for Architecture, and Painting, &amp;c. That were concerned about the whole work of this ſo famed, but now unfor<g ref="char:EOLhyphen"/>tunate Eſcurial.</head>
+               <list>
+                  <item>
+                     <hi>Fran. Antonio de villa Caſtine,</hi> Chief Architect.</item>
+                  <item>
+                     <hi>Michael Cuſin,</hi> a Flemming.</item>
+                  <item>
+                     <hi>Lavinia Fontana,</hi> Daughter of <hi>Proſpero Fontana,</hi> of Bo<g ref="char:EOLhyphen"/>lonia.</item>
+                  <item>
+                     <hi>Frederico Zucaro.</hi>
+                  </item>
+                  <item>
+                     <hi>Dominico Griego.</hi>
+                  </item>
+                  <item>
+                     <hi>Leonardo de Vinci.</hi>
+                  </item>
+                  <item>
+                     <hi>Luqueto,</hi> or <hi>Lucas Cangioſo,</hi> an Italian.</item>
+                  <item>
+                     <hi>Bergamaſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Peregrin de Peregrini</hi> of <hi>Milan</hi> excellent in <hi>Freſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Luis de Caravayal.</hi>
+                  </item>
+                  <item>
+                     <hi>Miguel Barroſo.</hi>
+                  </item>
+                  <item>
+                     <hi>Juan Baptiſta Monegro.</hi>
+                  </item>
+                  <item>
+                     <hi>Don Joſeph de Ribera,</hi> or <hi>Spannolette.</hi>
+                  </item>
+                  <item>
+                     <hi>Frederico Barroſo.</hi>
+                  </item>
+                  <item>
+                     <hi>Antonio Corregio</hi> or <hi>Acorezo.</hi>
+                  </item>
+                  <item>
+                     <hi>Raphael de <g ref="char:V">Ʋ</g>rbino.</hi> Famous in <hi>Groteſco</hi> and <hi>Bruteſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Juan de Andeus.</hi> Famous in <hi>Groteſco</hi> and <hi>Bruteſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Jacobo de Parma.</hi>
+                  </item>
+                  <item>
+                     <hi>Paulo Veroneſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Titian.</hi>
+                  </item>
+                  <item>
+                     <hi>Tintoretto.</hi>
+                  </item>
+                  <pb n="23" facs="tcp:46378:16"/>
+                  <item>
+                     <hi>Antonio Vandike.</hi>
+                  </item>
+                  <item>
+                     <hi>Pedro Paulo Ruben.</hi>
+                  </item>
+                  <item>
+                     <hi>Lucas Jordan.</hi>
+                  </item>
+                  <item>
+                     <hi>Guarchino.</hi>
+                  </item>
+                  <item>
+                     <hi>Andrea del Sarto.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Angelo Bonarota.</hi>
+                  </item>
+                  <item>
+                     <hi>Anibal Caracio.</hi>
+                  </item>
+                  <item>
+                     <hi>Fran. Sebaſtian del piombo.</hi>
+                  </item>
+                  <item>
+                     <hi>Guido Boloneſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Jorjon de Caſtel Franco.</hi>
+                  </item>
+                  <item>
+                     <hi>Bordonnon</hi> the Maſter of <hi>Titian.</hi>
+                  </item>
+                  <item>
+                     <hi>Andreas Chavon.</hi>
+                  </item>
+                  <item>
+                     <hi>Juan Fernandes Mudo.</hi>
+                  </item>
+                  <item>
+                     <hi>Maſaſio</hi> the Maſter of <hi>Michael Angelo.</hi>
+                  </item>
+                  <item>
+                     <hi>Geronimo Boſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Carlos Veroneſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Dario Ojonico.</hi>
+                  </item>
+                  <item>
+                     <hi>Guido Boloneſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Baſan.</hi>
+                  </item>
+                  <item>
+                     <hi>Diego Velaſques.</hi>
+                  </item>
+                  <item>
+                     <hi>Cavallero Maximo.</hi>
+                  </item>
+                  <item>
+                     <hi>Antonio Campi of Cremona.</hi>
+                  </item>
+                  <item>
+                     <hi>Mario.</hi>
+                  </item>
+                  <item>
+                     <hi>Granelo</hi> and <hi>Fabricio</hi> ſons of <hi>Bergamaſco,</hi> excellent in <hi>Bruteſco.</hi>
+                  </item>
+                  <item>
+                     <hi>Joachimo Flamenco.</hi>
+                  </item>
+                  <item>
+                     <hi>Sebaſtian de Herrera.</hi>
+                  </item>
+                  <item>
+                     <hi>Franciſco <g ref="char:V">Ʋ</g>rbino.</hi>
+                  </item>
+                  <item>
+                     <hi>Parmeſano.</hi>
+                  </item>
+                  <item>
+                     <hi>Palma.</hi>
+                  </item>
+                  <item>
+                     <hi>Bartolomeo Carducho.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
